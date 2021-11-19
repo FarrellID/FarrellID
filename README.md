@@ -16,13 +16,13 @@
   <a href="https://twitter.com/farrellbotak&" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a>
-  <a href="https://farrell-id.github.io/farrellweb/#portfolio" target="_blank">
+  <a href="https://farrellid.github.io/farrellatharr" target="_blank">
     <img src="https://img.shields.io/badge/website-%230077B5.svg?&style=for-the-badge&logo=bloggger&logoColor=white&color=071A2C" alt="Website"/>
   </a>
   <a href="https://instagram.com/farrellatharr_" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
-  <a href="https://youtube.com/FAOFC" target="_blank">
+  <a href="https://youtube.com/channel/UCDouO-m56kRAr8QzOqfUIYA" target="_blank">
     <img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="YouTube"/>
   </a>
 </p>
