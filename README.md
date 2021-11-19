@@ -27,5 +27,5 @@
   </a>
 </p>
 
-[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=Farrell-ID&show_icons=true)](https://github.com/Farrell-ID/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farrell-ID&layout=compact)](https://github.com/Farrell-ID/github-readme-stats)
+[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=FarrellID&show_icons=true)](https://github.com/FarrellID/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarrellID&layout=compact)](https://github.com/FarrellID/github-readme-stats)
